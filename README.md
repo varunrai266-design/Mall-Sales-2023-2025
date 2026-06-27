@@ -129,3 +129,6 @@ C:\Users\Repair\Desktop\mall sales\final_sales_report.xlsx
 - `Sale Date` is parsed as `DD-MM-YYYY` — ensure the source CSV uses this format
 - `Product` names are normalised to **lowercase** before grouping to avoid duplicates
 - DuckDB is used for one SQL validation step; the main pipeline stays in pandas
+
+- <img width="1332" height="741" alt="Screenshot 2026-06-27 202802" src="https://github.com/user-attachments/assets/907fa68c-a584-4c08-8fbf-368ee1448fd4" />
+
